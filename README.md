@@ -5,4 +5,4 @@ Moreover, Hoa aims at being a bridge between industrial and research worlds.
 
 # Shop
 
-This is a [meta-shop to support the project](http://hoa-project.com/).
+This is a [meta-shop](http://hoa-project.com/) to support the project.
